@@ -1,0 +1,15 @@
+R:\MS VSCode\FromGitHub\FirstTestLesson1\bin\Debug\net6.0\FirstTestLesson1.exe
+R:\MS VSCode\FromGitHub\FirstTestLesson1\bin\Debug\net6.0\FirstTestLesson1.deps.json
+R:\MS VSCode\FromGitHub\FirstTestLesson1\bin\Debug\net6.0\FirstTestLesson1.runtimeconfig.json
+R:\MS VSCode\FromGitHub\FirstTestLesson1\bin\Debug\net6.0\FirstTestLesson1.dll
+R:\MS VSCode\FromGitHub\FirstTestLesson1\bin\Debug\net6.0\FirstTestLesson1.pdb
+R:\MS VSCode\FromGitHub\FirstTestLesson1\obj\Debug\net6.0\FirstTestLesson1.csproj.AssemblyReference.cache
+R:\MS VSCode\FromGitHub\FirstTestLesson1\obj\Debug\net6.0\FirstTestLesson1.GeneratedMSBuildEditorConfig.editorconfig
+R:\MS VSCode\FromGitHub\FirstTestLesson1\obj\Debug\net6.0\FirstTestLesson1.AssemblyInfoInputs.cache
+R:\MS VSCode\FromGitHub\FirstTestLesson1\obj\Debug\net6.0\FirstTestLesson1.AssemblyInfo.cs
+R:\MS VSCode\FromGitHub\FirstTestLesson1\obj\Debug\net6.0\FirstTestLesson1.csproj.CoreCompileInputs.cache
+R:\MS VSCode\FromGitHub\FirstTestLesson1\obj\Debug\net6.0\FirstTestLesson1.dll
+R:\MS VSCode\FromGitHub\FirstTestLesson1\obj\Debug\net6.0\refint\FirstTestLesson1.dll
+R:\MS VSCode\FromGitHub\FirstTestLesson1\obj\Debug\net6.0\FirstTestLesson1.pdb
+R:\MS VSCode\FromGitHub\FirstTestLesson1\obj\Debug\net6.0\FirstTestLesson1.genruntimeconfig.cache
+R:\MS VSCode\FromGitHub\FirstTestLesson1\obj\Debug\net6.0\ref\FirstTestLesson1.dll
